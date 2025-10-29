@@ -1,0 +1,5 @@
+{
+  "name": "Coaching Style Test",
+  "description": "An application to determine your coaching style through a questionnaire and provides a detailed analysis of the results, including a personalized analysis using the Gemini API.",
+  "requestFramePermissions": []
+}
